@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 44ca6e28532b52f43a47bd6c22be9ad4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - birdPrefabON: {fileID: 100002, guid: 3f311f135ae6f554b9a51aba84e5461e, type: 3}
+  - birdPrefabOFF: {fileID: 100000, guid: 3f311f135ae6f554b9a51aba84e5461e, type: 3}
+  - birdAnimatorControllerON: {fileID: 9100000, guid: 5ab42f5884badb242972308112023327, type: 2}
+  - birdAnimatorControllerOFF: {fileID: 9100000, guid: a10b04178b5356f49905bf31ff1addf5, type: 2}
+  - birdMaterial: {fileID: 2100000, guid: 92e8250565d1c904f9cd919e5d27db2e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
