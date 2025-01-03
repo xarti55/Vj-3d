@@ -2,7 +2,7 @@ using UnityEngine;
 using System.Collections.Generic;
 using System;
 
-//a4
+//a4a
 public struct map_position_properties
 {
     public float height;
